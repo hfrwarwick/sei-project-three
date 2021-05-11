@@ -7,7 +7,7 @@ The app has been deployed with Heroku and is available [here](https://pubhub-new
 <img width="1439" alt="Pubhub Homepage" src="https://imgur.com/10auOuC.png">
 
 
-## Brief & Timeframe:
+## Brief & Timeframe:
 - Build a full-stack application by making your own backend and your own front-end
 - Use an Express API to serve your data from a Mongo database
 - Consume your API with a separate front-end built with React
@@ -16,9 +16,9 @@ The app has been deployed with Heroku and is available [here](https://pubhub-new
 - Have a visually impressive design
 - Be deployed online so it's publicly accessible
 
-## Timeframe: 8 days
+Timeframe: 8 days
 
-## Technologies Used:
+## Technologies Used:
 - Node.js
 - Express
 - MongoDB

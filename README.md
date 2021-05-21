@@ -6,6 +6,12 @@ The app has been deployed with Heroku and is available [here](https://pubhub-new
 
 We decided as a group to base our site on Airbnb, but instead of houses and apartments, the site is based around pubs.
 
+<img width="1439" alt="Airbnb" src="https://camo.githubusercontent.com/77aababeb5b97eaab9c2f19d1d2f44fa87f197bcbedad7512383fc0c0f8cd2de/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f59654d714a4937754d555f4b33775a62446b583050486876357576316f766f4e506f46572d4c456c4863484b74467233646b4864455834737469596d426f3168313955756e3658513845424f5f49447354536e4537676a375437446c4d484c566230434464726a6632595f6878763964476f78524166472d68764f7455764d67786a49622d455244">
+
+
+<img width="1439" alt="Pubhub" src="https://media4.giphy.com/media/Vvj5C9jxXGe29sFlCY/giphy.gif">
+
+
 ## Brief & Timeframe:
 - Build a full-stack application by making your own backend and your own front-end
 - Use an Express API to serve your data from a Mongo database
